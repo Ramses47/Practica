@@ -1,0 +1,3 @@
+﻿  Generador.cpp
+C:\Users\Ramsés\Desktop\Practica\Generador de numeros aleatorios\Generador de numeros aleatorios\Generador.cpp(5,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Generador de numeros aleatorios.vcxproj -> C:\Users\Ramsés\Desktop\Practica\Generador de numeros aleatorios\x64\Debug\Generador de numeros aleatorios.exe
